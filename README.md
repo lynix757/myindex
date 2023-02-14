@@ -1,5 +1,3 @@
-> https://github.com/lynix757/myindex
-
 # My list
 ## my-repo
 - Rocky Linux : https://github.com/lynix757/RockyLinux
