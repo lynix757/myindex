@@ -1,6 +1,7 @@
 # My list
 ## my-repo
 - Rocky Linux : https://github.com/lynix757/RockyLinux
+- Ubuntu : https://github.com/lynix757/Ubuntu
 - NGINX : https://github.com/lynix757/nginx
 - LDAP : https://github.com/lynix757/LDAP
 
