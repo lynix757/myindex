@@ -5,6 +5,7 @@
 - NGINX : https://github.com/lynix757/nginx
 - LDAP : https://github.com/lynix757/LDAP
 - Kubernetes : https://github.com/lynix757/kubernetes
+- VMware : https://github.com/lynix757/VMware
 
 
 ## Other
